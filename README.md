@@ -21,6 +21,8 @@
 
 # 🥇 Github Stats
 ![Terik's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerikKek&show_icons=true&theme=shades-of-purple)
+  <img src="https://github-profile-trophy.vercel.app/?username=TerikKek&theme=nord&margin-w=15&margin-h=15&column=7" />
+
 
 
 # ✏️ Editors Notes

@@ -1,16 +1,36 @@
-### Hi there 👋
+------------
 
-<!--
-**TerikKek/TerikKek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
+------------
+# 📁 Current Projects
+* Visual Novel Dumpers
+* TerkBot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔤 Languages known
+
+* ![Code](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=550fdb)  
+* ![Code](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=550fdb) 
+* ![Code](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=550fdb)
+
+
+# 🧰 Tools Used
+
+* ![Editor](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=550fdb) 
+* ![Editor](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=550fdb) 
+
+# 🥇 Github Stats
+![Terik's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerikKek&show_icons=true&theme=shades-of-purple)
+
+
+# ✏️ Editors Notes
+Contact me on discord if u want to work on smth moth#0666
+
+
+------------
+
+
+------------
+
+
+------------

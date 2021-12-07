@@ -6,6 +6,7 @@
 # 📁 Current Projects
 * Visual Novel Dumpers
 * TerkBot
+* The Archive
 
 # 🔤 Languages known
 
@@ -26,8 +27,8 @@
 
 
 # ✏️ Editors Notes
-Contact me on discord if u want to work on smth moth#0666
-
+Contact me on discord if u want to work on smth Terik#0666
+Turns out I have schizophrenia
 
 ------------
 

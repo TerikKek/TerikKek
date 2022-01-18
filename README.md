@@ -4,9 +4,9 @@
 
 ------------
 # 📁 Current Projects
-* Visual Novel Dumpers
-* TerkBot
-* The Archive
+* Visual Novel Dumpers (currently inactive)
+* TerkBot (inactive)
+* The Archive (up and running in it's beta stages)
 
 # 🔤 Languages known
 
@@ -28,7 +28,7 @@
 
 # ✏️ Editors Notes
 Contact me on discord if u want to work on smth Terik#0666
-Turns out I have schizophrenia
+Turns out I'm stupid
 
 ------------
 
